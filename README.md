@@ -1,4 +1,9 @@
-# webschool-magazine-php 
+# Webschool Magazine - PHP 
+
 A revista dedicada ao PHP.  
+
 ## Banco De Dados  
-## Protocolos
+
+## API
+
+## PHP7
