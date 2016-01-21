@@ -2,8 +2,4 @@
 
 A revista dedicada ao PHP.  
 
-## Banco De Dados  
-
-## API
-
-## PHP7
+[Conheça mais sobre a Webschool Magazine](http://nomadev.com.br/webschool-magazine-uma-revista-da-comunidade-para-a-comunidade/).
